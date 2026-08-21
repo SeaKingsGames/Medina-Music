@@ -1,0 +1,9 @@
+{
+  "name": "neonplay",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NeonPlay — reproductor de audio de YouTube sin ads, con proxy propio (ytdl-core) y fallback al IFrame oficial.",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12"
+  }
+}
