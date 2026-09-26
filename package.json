@@ -1,0 +1,13 @@
+{
+  "name": "neonplay",
+  "version": "3.0.0",
+  "private": true,
+  "description": "NeonPlay — reproductor de música sin anuncios con proxy propio (ytdl-core).",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "sharp": "^0.34.0"
+  }
+}
